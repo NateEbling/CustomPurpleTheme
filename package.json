@@ -1,6 +1,6 @@
 {
-  "name": "ebz",
-  "displayName": "Custom Purp",
+  "name": "custom-purple-theme",
+  "displayName": "Custom Purple",
   "description": "Custom purple theme for Ebz",
   "version": "0.0.1",
   "engines": {
@@ -9,6 +9,14 @@
   "categories": [
     "Themes"
   ],
+  "author": {
+    "name": "Ebz"
+  },
+  "repository": {
+    "url": "https://github.com/NateEbling/CustomPurpleTheme",
+    "type": "git"
+  },
+  "publisher": "Ebz",
   "contributes": {
     "themes": [
       {
