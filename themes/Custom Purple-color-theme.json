@@ -46,7 +46,7 @@
 		"name": "punctuation.separator.parameters.python",
 		"scope": "punctuation.separator.period.python,punctuation.separator.element.python,punctuation.parenthesis.begin.python,punctuation.parenthesis.end.python",
 		"settings": {
-		  "foreground": "#b5c1d3"
+		  "foreground": "#edeff3"
 		}
 	  },
 	  {
@@ -259,7 +259,7 @@
 		"name": "operator logical",
 		"scope": "keyword.operator.logical",
 		"settings": {
-		  "foreground": "#86bfe4"
+		  "foreground": "#8967b5"
 		}
 	  },
 	  {
@@ -419,14 +419,14 @@
 		"name": "keyword.operator",
 		"scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
 		"settings": {
-		  "foreground": "#86bfe4"
+		  "foreground": "#8967b5"
 		}
 	  },
 	  {
 		"name": "C operator assignment",
 		"scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
 		"settings": {
-		  "foreground": "#86bfe4"
+		  "foreground": "#8967b5"
 		}
 	  },
 	  {
@@ -475,7 +475,7 @@
 		"name": "python logical",
 		"scope": "keyword.operator.logical.python",
 		"settings": {
-		  "foreground": "#86bfe4"
+		  "foreground": "#8967b5"
 		}
 	  },
 	  {
@@ -510,7 +510,7 @@
 		"name": "Operators",
 		"scope": "keyword.operator",
 		"settings": {
-		  "foreground": "#b5c1d3"
+		  "foreground": "#8967b5"
 		}
 	  },
 	  {
@@ -531,7 +531,7 @@
 		"name": "Keywords",
 		"scope": "keyword",
 		"settings": {
-		  "foreground": "#86bfe4"
+		  "foreground": "#8967b5"
 		}
 	  },
 	  {
@@ -545,28 +545,28 @@
 		"name": "Variables",
 		"scope": "variable",
 		"settings": {
-		  "foreground": "#b5c1d3"
+		  "foreground": "#eceef1"
 		}
 	  },
 	  {
 		"name": "Variables",
 		"scope": "variable.c",
 		"settings": {
-		  "foreground": "#b5c1d3"
+		  "foreground": "#eceef1"
 		}
 	  },
 	  {
 		"name": "Language variables",
 		"scope": "variable.language",
 		"settings": {
-		  "foreground": "#6478ba"
+		  "foreground": "#eceef1"
 		}
 	  },
 	  {
 		"name": "Java Variables",
 		"scope": "token.variable.parameter.java",
 		"settings": {
-		  "foreground": "#b5c1d3"
+		  "foreground": "#eceef1"
 		}
 	  },
 	  {
@@ -599,28 +599,28 @@
 		  "variable.function"
 		],
 		"settings": {
-		  "foreground": "#6478ba"
+		  "foreground": "#7c84d6"
 		}
 	  },
 	  {
 		"name": "Classes",
 		"scope": "entity.name.type.namespace",
 		"settings": {
-		  "foreground": "#6478ba"
+		  "foreground": "#7c84d6"
 		}
 	  },
 	  {
 		"name": "Classes",
 		"scope": "support.class, entity.name.type.class",
 		"settings": {
-		  "foreground": "#6478ba"
+		  "foreground": "#7c84d6"
 		}
 	  },
 	  {
 		"name": "Class name",
 		"scope": "entity.name.class.identifier.namespace.type",
 		"settings": {
-		  "foreground": "#6478ba"
+		  "foreground": "#7c84d6"
 		}
 	  },
 	  {
@@ -631,7 +631,7 @@
 		  "variable.other.class.ts"
 		],
 		"settings": {
-		  "foreground": "#6478ba"
+		  "foreground": "#7c84d6"
 		}
 	  },
 	  {
@@ -645,7 +645,7 @@
 		"name": "Type Name",
 		"scope": "entity.name.type",
 		"settings": {
-		  "foreground": "#6478ba"
+		  "foreground": "#8967b5"
 		}
 	  },
 	  {
@@ -666,7 +666,7 @@
 		"name": "Methods",
 		"scope": "keyword.other.special-method",
 		"settings": {
-		  "foreground": "#6478ba"
+		  "foreground": "#7c84d6"
 		}
 	  },
 	  {
@@ -743,7 +743,7 @@
 		"name": "Inherited Class",
 		"scope": "entity.other.inherited-class",
 		"settings": {
-		  "foreground": "#6478ba"
+		  "foreground": "#7c84d6"
 		}
 	  },
 	  {
@@ -1192,7 +1192,7 @@
 		"name": "python function decorator @",
 		"scope": "meta.function.decorator.python",
 		"settings": {
-		  "foreground": "#6478ba"
+		  "foreground": "#7570ae"
 		}
 	  },
 	  {
@@ -1213,7 +1213,7 @@
 		"name": "brace function",
 		"scope": "function.brace",
 		"settings": {
-		  "foreground": "#b5c1d3"
+		  "foreground": "#eceef1"
 		}
 	  },
 	  {
@@ -1885,8 +1885,8 @@
 	  "statusBarItem.remoteForeground": "#ffffff",
 	  "titleBar.activeBackground": "#29273b",
 	  "titleBar.activeForeground": "#cccccc",
-	  "titleBar.inactiveBackground": "#3c3c3c99",
-	  "titleBar.inactiveForeground": "#3c3c3c99",
+	  "titleBar.inactiveBackground": "#29273b",
+	  "titleBar.inactiveForeground": "#29273b",
 	  "titleBar.border": "#00000000",
 	  "menubar.selectionForeground": "#cccccc",
 	  "menubar.selectionBackground": "#ffffff1a",
