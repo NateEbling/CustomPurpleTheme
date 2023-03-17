@@ -2,7 +2,7 @@
   "name": "custom-purple-theme",
   "displayName": "Custom Purple",
   "description": "Custom purple theme for Ebz",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.76.0"
   },
