@@ -235,12 +235,62 @@
 			}
 		},
 		{
-			"name": "variable readwrite",
-			"scope": "variable.other.readwrite",
+			"name": "type name",
+			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#cfd7e6",
+				"foreground": "#7d9ee4",
+			}
+		},
+		{
+			"name": "object property",
+			"scope": "variable.other.object.property",
+			"settings": {
+				"foreground": "#9ad3e7",
+			}
+		},
+		{
+			"name": "new keyword",
+			"scope": "keyword.other.new",
+			"settings": {
+				"foreground": "#9ad3e7",
+			}
+		},
+		{
+			"name": "period separator",
+			"scope": "punctuation.separator.period",
+			"settings": {
+				"foreground": "#9ad3e7",
+			}
+		},
+		{
+			"name": "logical operator",
+			"scope": "keyword.operator.logical",
+			"settings": {
+				"foreground": "#c190da",
+			}
+		},
+		{
+			"name": "comparison",
+			"scope": "keyword.operator.comparison",
+			"settings": {
+				"foreground": "#c190da",
+			}
+		},
+		{
+			"name": "constant",
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#e28275",
+			}
+		},
+		{
+			"name": "attribute",
+			"scope": "meta.attribute",
+			"settings": {
+				"foreground": "#9ad3e7",
 			}
 		}
+		
 	],
 	"colors": {
 	  "foreground": "#e4e2e2",
@@ -312,7 +362,7 @@
 	  "editor.background": "#2d2b41",
 	  "editor.foreground": "#b5c1d3",
 	  "editorLineNumber.foreground": "#b5c1d3",
-	  "editorCursor.foreground": "#575573",
+	  "editorCursor.foreground": "#c190da",
 	  "editorCursor.background": "#1f1d2e",
 	  "editor.selectionBackground": "#484566",
 	  "editor.inactiveSelectionBackground": "#3c3956",
@@ -336,8 +386,8 @@
 	  "editor.lineHighlightBorder": "#3f3d58",
 	  "editorLineNumber.activeForeground": "#c6c6c6",
 	  "editorLink.activeForeground": "#9690e0",
-	  "editorIndentGuide.background": "#615f80",
-	  "editorIndentGuide.activeBackground": "#615f80",
+	  "editorIndentGuide.background": "#454263",
+	  "editorIndentGuide.activeBackground": "#6f6c92",
 	  "editorRuler.foreground": "#615f80",
 	  "editorBracketMatch.background": "#0064001a",
 	  "editorBracketMatch.border": "#9d9a9a",
@@ -372,7 +422,7 @@
 	  "badge.foreground": "#ffffff",
 	  "terminal.foreground": "#cccccc",
 	  "terminal.selectionBackground": "#ffffff40",
-	  "terminalCursor.background": "#5e5a86",
+	  "terminalCursor.background": "#c190da",
 	  "terminalCursor.foreground": "#ffffff",
 	  "terminal.border": "#80808059",
 	  "terminal.ansiBlack": "#000000",
