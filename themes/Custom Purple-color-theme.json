@@ -289,6 +289,20 @@
 			"settings": {
 				"foreground": "#9ad3e7",
 			}
+		},
+		{
+			"name": "function call",
+			"scope": "meta.function-call.generic",
+			"settings": {
+				"foreground": "#9ad3e7",
+			}
+		},
+		{
+			"name": "indexed name",
+			"scope": "meta.indexed-name",
+			"settings": {
+				"foreground": "#9ad3e7",
+			}
 		}
 		
 	],
