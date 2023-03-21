@@ -217,7 +217,7 @@
 			"name": "self param",
 			"scope": "variable.parameter.function.language.special.self",
 			"settings": {
-				"foreground": "#c190da",
+				"foreground": "#EEC988",
 			}
 		},
 		{
